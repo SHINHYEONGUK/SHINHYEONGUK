@@ -36,7 +36,7 @@
 - **핵심 경험:**
   - 팀원 이탈(5→4명) 위기 속에서 현실적인 MVP를 재정의하여 프로젝트를 성공적으로 완수
   - Spring Security/JWT 기반 인증 시스템 및 JPA를 활용한 근태/전자결재 CRUD API 개발
-  - Git-flow 전략을 수립하고, CI/CD 환경에서 팀 코드 통합 및 버전 관리 담당
+  - 빌드 안정성 확보: 잦은 코드 병합 충돌 문제를 해결하고자, 배포 전 기능 테스트를 의무화하는 프로세스를 수립하여 프로젝트 안정성을 확보
 - **[➡️ Backend Repository](https://github.com/SHINHYEONGUK/samubozo-backend)**
 - **[➡️ Frontend Repository](https://github.com/SHINHYEONGUK/samubozo-front)**
 
